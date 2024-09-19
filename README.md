@@ -1,6 +1,6 @@
 # Hi there, I'm Karthik krishna 👋
 
-I'm a computer engineering student with a keen interest in cybersecurity. I'm currently studying at Fisat, mookkanoor, angamaly.
+I'm a Blockchain developer and cybersecurity and FOSS enthusiast. I'm currently studying at Fisat, mookkanoor, angamaly.
 
 ## My Interests include:
 
@@ -11,12 +11,15 @@ I'm a computer engineering student with a keen interest in cybersecurity. I'm cu
 
 ## Skills
 
-- Programming Languages: Python, Java, C
+- Scripting Languages: Python
+- Blockchain languages: Solidity, Rust
 - Web Development: HTML, JavaScript
+- Other: Java, C
 
 ## Projects
 
 I am currently in the process of learning and building my first projects. Stay tuned for updates!
+Check my repos for some unfinished projects.
 
 ## Education
 
