@@ -1,32 +1,37 @@
-# Hi there, I'm Karthik krishna 👋
+# Hi there, I'm Karthik Krishna 👋
 
-I'm a **Blockchain developer** and **Cybersecurity and FOSS enthusiast**. I'm currently studying at Fisat, mookkanoor, angamaly.
+A **Blockchain developer** and **Cybersecurity + FOSS explorer**, currently pursuing B.Tech in Computer Science at FISAT, Mookkanoor.
 
-## My Interests include:
+## 🚀 What I’m About
 
-- Cybersecurity
-- Hackathons
-- Open-source projects
-- Programming
+- Securing systems, breaking boundaries (CTFs, exploit dev, red teaming)
+- Building with purpose (Hackathons, open-source, real-world tools)
+- Experimenting across stacks — from **low-level exploits** to **decentralized networks**
 
-## Skills
+## 🛠 Tech Stack
 
-- **Scripting Languages:** Python
-- **Blockchain languages:** Solidity, Rust
-- **Web Development:** HTML, JavaScript
-- **Other:** Java, C
+- **Languages**: Python, Java, C, JavaScript  
+- **Blockchain**: Solidity, Rust  
+- **Web Dev**: HTML, JS, basic Node  
+- **Tools**: Nmap, Burp Suite, Wireshark, Metasploit  
+- **Currently exploring**: Smart contract audits, zk-proofs, real-time blockchain analytics
 
-## Projects
+## 📂 Projects
 
-I am currently in the process of learning and building my first projects. Stay tuned for updates!
+Currently building:
+- 🔐 AI for blockchain threat monitoring  
+- ⚡ Smart canisters on Internet Computer  
+- 🛡 Custom security tools for CTFs  
 
-Check my repos for some unfinished projects.
+My repos are raw, evolving, and a window into what I'm learning and building. Dive in!
 
-## Education
+## 🎓 Education
 
-- **Federal institute of science and technology**, mookkanoor - B.Tech. in Computer Science and Engineering (Expected Graduation: 2027)
+**Federal Institute of Science and Technology (FISAT)**, Mookkanoor  
+B.Tech in Computer Science and Engineering  
+_Expected Graduation: 2027_
 
-## Contact
+## 📬 Connect With Me
 
-- Email: karthik.13x@gmail.com
-- LinkedIn: [Karthik krishna S.](https://www.linkedin.com/in/karthik-krishna-s)
+- 📧 Email: karthik.13x@gmail.com  
+- 💼 LinkedIn: [Karthik Krishna S.](https://www.linkedin.com/in/karthik-krishna-s)
