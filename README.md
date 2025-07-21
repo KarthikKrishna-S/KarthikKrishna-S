@@ -1,29 +1,31 @@
 # Hi there, I'm Karthik Krishna 👋
 
-A **Blockchain developer** and **Cybersecurity + FOSS explorer**, currently pursuing B.Tech in Computer Science at FISAT, Mookkanoor.
+I'm a **student developer** exploring **blockchain**, **cybersecurity**, and **open-source**.  
+Currently pursuing B.Tech in Computer Science at FISAT, Mookkanoor (Graduating 2027).
 
-## 🚀 What I’m About
+## ⚡ Interests
 
-- Securing systems, breaking boundaries (CTFs, exploit dev, red teaming)
-- Building with purpose (Hackathons, open-source, real-world tools)
-- Experimenting across stacks — from **low-level exploits** to **decentralized networks**
+- Cybersecurity (CTFs, red teaming basics)
+- Blockchain development
+- Hackathons & idea prototyping
+- Free and open-source software
 
-## 🛠 Tech Stack
+## 🛠 Skills
 
 - **Languages**: Python, Java, C, JavaScript  
-- **Blockchain**: Solidity, Rust  
-- **Web Dev**: HTML, JS, basic Node  
+- **Blockchain**: Solidity, Rust (learning)  
+- **Web**: HTML, JS  
 - **Tools**: Nmap, Burp Suite, Wireshark, Metasploit  
-- **Currently exploring**: Smart contract audits, zk-proofs, real-time blockchain analytics
+- Currently learning smart contract audits and real-time blockchain analytics
 
 ## 📂 Projects
 
-Currently building:
-- 🔐 AI for blockchain threat monitoring  
-- ⚡ Smart canisters on Internet Computer  
-- 🛡 Custom security tools for CTFs  
+Actively working on:  
+- 🖼️ AI model for image recognition      
+- ✍️ CTF writeups and walkthroughs  
+- 🔒 Small cybersecurity utilities and experiments
 
-My repos are raw, evolving, and a window into what I'm learning and building. Dive in!
+Most repos are a work in progress — raw but real. Contributions and feedback always welcome.
 
 ## 🎓 Education
 
@@ -31,7 +33,7 @@ My repos are raw, evolving, and a window into what I'm learning and building. Di
 B.Tech in Computer Science and Engineering  
 _Expected Graduation: 2027_
 
-## 📬 Connect With Me
+## 📬 Contact
 
 - 📧 Email: karthik.13x@gmail.com  
 - 💼 LinkedIn: [Karthik Krishna S.](https://www.linkedin.com/in/karthik-krishna-s)
